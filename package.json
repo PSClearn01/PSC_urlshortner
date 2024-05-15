@@ -7,14 +7,14 @@
 		"start": "node server.js"
 	},
 	"dependencies": {
+		"body-parser": "^1.20.2",
+		"cors": "^2.8.5",
 		"express": "^5.0.0-alpha.2",
-		"mongodb": "^3.3.2",
-		"mongoose": "^5.7.3",
-		"cors": "^2.8.1",
-		"body-parser": "^1.15.2"
+		"mongodb": "^3.7.4",
+		"mongoose": "^5.13.22"
 	},
 	"engines": {
-		"node": "4.4.5"
+		"node": "20.13.0"
 	},
 	"repository": {
 		"type": "git",
